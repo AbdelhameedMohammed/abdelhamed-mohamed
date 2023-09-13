@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abdelhamed-mohamed
-- 👀 I’m interested in programing,cpp and competetive programing 
+- 👀 I’m interested in programming , cpp and competetive programming 
 - 🌱 I’m currently learning oop,data structures and algorithems
 - 📫 How to reach me ...
 
