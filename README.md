@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abdelhamed-mohamed
+- 👋 Hi, I’m @Abdelhameed-Mohamed
 - 👀 I’m interested in programming , cpp and competetive programming 
 - 🌱 I’m currently learning oop,data structures and algorithems
 - 📫 How to reach me
